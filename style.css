@@ -722,11 +722,7 @@ h1, h2, h3 {
     cursor: pointer;
   }
 
-  .hamburger-menu .hamburger-icon span {
-    background-color: #fff;
-    height: 5px;
-    width: 100%;
-  }
+
 
   .menu-links {
     display: none;
