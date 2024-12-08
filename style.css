@@ -372,6 +372,27 @@ section {
   gap: 1rem;
 }
 
+#hero-quote {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #f4f4f9; /* Light background for contrast */
+  padding: 50px 20px;
+}
+
+.quote-container {
+  max-width: 800px;
+}
+
+.hero-quote {
+  font-size: 2.5rem; /* Adjust size as needed */
+  font-weight: bold;
+  color: #333; /* Text color */
+  line-height: 1.4;
+  font-family: 'Georgia', serif; /* Elegant font */
+}
+
 /* ABOUT SECTION */
 
 #about {
